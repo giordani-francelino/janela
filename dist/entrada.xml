@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!-- comentários... -->
+<dados>
+	<viewport>
+		<!-- viewport para uma janela de visualização de 620x460 com margem de  10pixels (area total de 640x480)-->
+		<vpmin x="10" y="10"/>
+		<vpmax x="810" y="543"/>
+	</viewport>
+	
+	<window>
+		<wmin x="-600.0" y="-400.0"/>
+		<wmax x="600.0" y="400.0"/>
+	</window>
+
+	<pontos>
+		<ponto x="-500" y="-300"/>
+		<ponto x="-500" y="-301"/>
+		<ponto x="-500" y="-302"/>
+		<ponto x="-500" y="-303"/>
+		<ponto x="-500" y="-304"/>
+		<ponto x="-500" y="-305"/>
+		<ponto x="-500" y="-300"/>
+		<ponto x="-501" y="-300"/>
+		<ponto x="-502" y="-300"/>
+		<ponto x="-503" y="-300"/>
+		<ponto x="-504" y="-300"/>
+		<ponto x="-505" y="-300"/>
+	</pontos>
+
+	<reta>
+		<ponto x="-100" y="300"/>
+		<ponto x="400" y="350"/>
+	</reta>
+
+	<reta>
+		<ponto x="-120" y="350"/>
+		<ponto x="500" y="450"/>
+	</reta>
+
+	<poligono>
+		<ponto x="30.0" y="200.0"/>
+		<ponto x="130.0" y="160.0"/>
+		<ponto x="40.0" y="-40.0"/>
+		<ponto x="150.0" y="-100.0"/>
+		<!-- <ponto> adicionais -->
+	</poligono>
+	<poligono>
+		<ponto x="100.0" y="-200.0"/>
+		<ponto x="100.0" y="-300.0"/>
+		<ponto x="200.0" y="-200.0"/>
+		<ponto x="200.0" y="-300.0"/>
+		<!-- <ponto> adicionais -->
+	</poligono>
+</dados>
